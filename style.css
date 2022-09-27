@@ -1,5 +1,7 @@
-.body {
+body {
     font-family: 'Roboto', sans-serif;
+    display: block;
+    margin: 0px;
 }
 
 .header {
@@ -57,7 +59,7 @@
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    margin: 50px;
+    
     height: 500px;
     width: 500px;
     flex-direction: column;
