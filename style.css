@@ -1,5 +1,7 @@
-.body {
+body {
     font-family: 'Roboto', sans-serif;
+    display: block;
+    margin: 0px;
 }
 
 .header {
